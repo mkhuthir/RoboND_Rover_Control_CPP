@@ -3,6 +3,8 @@
 # RoboND-Control_Rover
 A C++ program designed to accept user inputs and issue commands to the rover inside a simulator over a TCP/IP socket. 
 
+<p align="center"> <img src="./misc/rover.png"> </p>
+
 ### Rover Simulator:
 Before you compile and run this program, download the rover simulator for [Windows](https://s3-us-west-1.amazonaws.com/udacity-robotics/Term+2+Prep/RoverSim_Windows.zip) or [MacOS](https://s3-us-west-1.amazonaws.com/udacity-robotics/Term+2+Prep/RoverSim_MacOS.zip). Optionally you can download it for [Linux](https://s3-us-west-1.amazonaws.com/udacity-robotics/Term+2+Prep/RoverSim_Linux.zip), note that this version will only work with native Ubuntu!
 
