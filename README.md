@@ -1,6 +1,6 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
-# RoboND-Control_Rover
+# RoboND Rover Control with C++
 A C++ program designed to accept user inputs and issue commands to the rover inside a simulator over a TCP/IP socket. 
 
 <p align="center"> <img src="./misc/rover.png"> </p>
