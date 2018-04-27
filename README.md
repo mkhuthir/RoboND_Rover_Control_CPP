@@ -58,7 +58,7 @@ Refer to this table and control your robot with keyboard commands through the Ub
 
 ## YouTube Video 
 
-[![test video](http://img.youtube.com/vi/eldp65lnlAE/default.jpg)](http://www.youtube.com/watch?v=eldp65lnlAE)
+[![test video](http://img.youtube.com/vi/eldp65lnlAE/0.jpg)](http://www.youtube.com/watch?v=eldp65lnlAE)
 
 
 
